@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BolDo</string>
+    <string name="speak">Speak</string>
+    <string name="todo">TODO</string>
+    <string name="choose_file">Choose File</string>
+
+    <string name="attach_your_file_here">Attach your file here</string>
+    <string name="open_file_activity">ADD FILE</string>
+    <string name="in_case_you_want_to_attach_a_file_click_on_the_button_below">In case you want to attach a file, click on the button below.</string>
+    <string name="todo2">TODO</string>
+    <string name="textview">Extracted text will be shown here.</string>
+</resources>
